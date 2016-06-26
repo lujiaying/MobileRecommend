@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ch_concln.aux
+The style file: buptgraduatethesis.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bare_thesis.bib
+I was expecting a `,' or a `}'---line 14 of file bare_thesis.bib
+ :   
+ :   CTLswitch_chs_punc = "no",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- BUPTGraduateThesis.bst version 4.0 (2015/01/02) by Xianling Wang.
+-- https://gitcafe.com/rioxwang/BUPTGraduateThesis
+-- See the "buptgraduatethesis.pdf" manual for usage information.
+Warning--booktitle is empty in SANGUOYANYI
+Warning--publisher is empty in SANGUOYANYI
+Warning--date is empty in CHANGBANPO
+Warning--editor is empty in CITATION_PROCEEDINGS
+Warning--address is empty in CITATION_TECHREPORT
+** BUPTGraduateThesis BST control entry"BSTcontrol" detected. **
+
+Done.
+You've used 14 entries,
+            2106 wiz_defined-function locations,
+            615 strings with 5820 characters,
+and the built_in function-call counts, 6730 in all, are:
+= -- 664
+> -- 104
+< -- 3
++ -- 44
+- -- 1
+* -- 710
+:= -- 764
+add.period$ -- 0
+call.type$ -- 14
+change.case$ -- 0
+chr.to.int$ -- 11
+cite$ -- 19
+duplicate$ -- 424
+empty$ -- 790
+format.name$ -- 28
+if$ -- 1580
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 0
+newline$ -- 69
+num.names$ -- 12
+pop$ -- 104
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 4
+skip$ -- 21
+stack$ -- 0
+substring$ -- 1129
+swap$ -- 44
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 0
+warning$ -- 5
+while$ -- 54
+width$ -- 16
+write$ -- 94
+(There was 1 error message)

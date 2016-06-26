@@ -1,5 +1,5 @@
 # coding: utf-8
-'''用户级别的统计'''
+'''生成样本标签'''
 
 __author__ = 'lujiaying'
 
@@ -9,7 +9,6 @@ abs_path = os.path.dirname(os.path.abspath(__file__))
 abs_father_path = os.path.dirname(abs_path)
 sys.path.append(abs_father_path)
 from utils.log_tools import feature_logger as logger
-from utils.process_tools import str2datetime
 
 behavior_map = {1:'view', 2:'collect', 3:'cart', 4:'buy'}
 
@@ -58,3 +57,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
